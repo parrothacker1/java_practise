@@ -1,3 +1,7 @@
+// To check if a number is repeated within a number 
+// Input: 54422
+// It is not a unique number
+
 import java.util.*;
 
 public class Main {
